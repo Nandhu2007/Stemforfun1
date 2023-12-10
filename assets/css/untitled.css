@@ -1,0 +1,12 @@
+.carousel-control-next-icon {
+  background-image: url("../../assets/img/rarrow.png");
+}
+
+.carousel-control-prev-icon {
+  background-image: url("../../assets/img/output-onlinepngtools.png");
+}
+
+.w-100 {
+  width: 100% !important;
+}
+

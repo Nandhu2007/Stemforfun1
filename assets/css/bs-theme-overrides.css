@@ -1,0 +1,5 @@
+:root, [data-bs-theme=light] {
+  --bs-border-radius: 0.750px;
+  --bs-focus-ring-width: 3rem;
+}
+
